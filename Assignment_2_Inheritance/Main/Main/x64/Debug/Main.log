@@ -1,0 +1,7 @@
+﻿  clothingStore.cpp
+C:\Users\iffat\Desktop\Assignment_2_Inheritance\Main\Main\clothingStore.cpp(18,10): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Main.cpp
+  pant.cpp
+  Generating Code...
+C:\Users\iffat\Desktop\Assignment_2_Inheritance\Main\Main\clothingStore.cpp(22): warning C4715: 'clothingStore::getsize': not all control paths return a value
+  Main.vcxproj -> C:\Users\iffat\Desktop\Assignment_2_Inheritance\Main\x64\Debug\Main.exe
